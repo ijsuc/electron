@@ -1,0 +1,9 @@
+{
+  "reload": false,
+  "devTools": false,
+  "apiHost": "http://localhost:3000",
+  "autoUpdate": false,
+  "googleOauth": {
+    "scope": "https://www.googleapis.com/auth/drive.file"
+  }
+}
